@@ -1,7 +1,7 @@
 vanilla-boxes
 ===
 
-A collection of [veewee](https://github.com/jedi4ever/veewee) definitions of [Vagrant](http://www.vagrantup.com) **vanilla*** base boxes.
+A collection of [veewee](https://github.com/jedi4ever/veewee) definitions of [Vagrant](http://www.vagrantup.com) **vanilla*** base boxes PLUS definitions for Ubuntu 13.04 Server (64-bit) with Ruby, Chef, and Puppet.
 
 *\*vanilla - no ruby, gem, chef, puppet.*
 
@@ -13,6 +13,7 @@ A collection of [veewee](https://github.com/jedi4ever/veewee) definitions of [Va
  * [Ubuntu Quantal 64 Vanilla (12.10)](https://dl.dropboxusercontent.com/u/165709740/boxes/quantal64-vanilla.box)
  * [Ubuntu Raring 32 Vanilla (13.04)](http://goo.gl/y79mW)
  * [Ubuntu Raring 64 Vanilla (13.04)](http://goo.gl/ceHWg)
+ * [Ubuntu Raring 64 w/ Ruby, Chef, and Puppet (13.04)](https://dl.dropboxusercontent.com/u/3428571/raring64.box)
 
 ## Before started
 
@@ -46,6 +47,7 @@ Vagrant.
 ## License and authors
 
  * Author:: Huiming Teo ([@teohm](https://twitter.com/teohm))
+ * Author:: John Syrinek ([@johntron](https://twitter.com/johntron))
 
 Copyright 2013, Huiming Teo
 
